@@ -1,4 +1,0 @@
-********Guitar Tuner Project********
-TODO:
-- Optimise audio sample collection
-- Write a program to optimise sampling
